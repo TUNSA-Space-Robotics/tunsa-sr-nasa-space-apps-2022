@@ -1,0 +1,29 @@
+
+Space Agency Data*
+Since our project's main objective is to design tools to be used in a Mars habitat, we didn't use numerical or imagery data from Space Agencies. However, when it comes to 3D models referenced from Space Agencies, we did actually inspire from the following NASA 3D models:
+
+Shuttle Helmet: https://nasa3d.arc.nasa.gov/search/helmet/model
+Perseverance Rover Wheel: https://nasa3d.arc.nasa.gov/detail/Mini-Perseverance-Rover-Wheel
+
+
+Hackathon journey:
+
+This hackathon was nothing short of amazing. It gave us the chance to get together during the weekend and work on really cool designs for a Mars Habitat which we only dreamed of.
+
+
+
+At first, before NASA Space Apps began, we were hesitating between pursuing this challenge or the "Exploring Venus Together" one. We thought about the different aspects of both, from expertise required to succeed, all the way to the amount of fun to be had, and in every argument, both choices traded blows. In the end, it really came down to the high creativity and brainstorming factor of the first challenge.
+
+In addition, every one of us always dreamed sometime in their life to be in the shoes of Mark Watney from "The Martian" movie. To be  given the slightest chance to experience what he virtually did is really cool on its own.
+
+
+
+We learned a lot throughout this hackathon. Not only did everyone of us brush up their previous SOLIDWORKS skills, but we also did learn a lot of new features in this CAD software that we didn't think were even there. You know what it's like going from only using the bare minimum of features to design a shape to understanding all those buttons and dials on the screen and knowing when to use each one of them? It's like unlocking a whole new dimension.
+
+
+
+The main approach we deployed throughout this project is to prioritize the most useful and important items. From the start, we researched the types of items astronauts would take on a mission to an exoplanet (Mars, Moon, etc). We then extracted the categories out of each item's context, and completed with other important categories. In order to fill in the gaps, we then teamed up to do an extensive research on the items typically found in Earth habitats, and filtered out the ones that could be combined with other items. All in all, we got a very good list of tools to start. But here comes a problem: we can't possibly design all items within the hackathon timeframe. In order to solve this problem, we gave each item a score from 1-5 (the higher, the better) in 3 criteria: usefulness, importance, and ease of design. Then we summed up the scores and got a total for each tool. After that, we proceeded to rank the items based on their respective total score from best to worst. Finally, we decided to start designing the items that have a score equal or above 11, and go down from their if the time allows. That's pretty match it.
+
+
+
+We want to thank NASA for organizing this programme and all the experts who helped us on Discord.
