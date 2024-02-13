@@ -40,5 +40,5 @@ For inquiries or collaboration opportunities, please contact:
 - Firas Raouin: raouinfiras@gmail.com
 - Nesrine Abidi: nesrinabidi766@gmail.com
 - Afef Salhi: salhiafefge@gmail.com
-- Sarra Mannai: Sarra5mannai@gmail.com
+- Sarra Mannai: sarra5mannai@gmail.com
 - Malek Sghaier: malekshir00@gmail.com
