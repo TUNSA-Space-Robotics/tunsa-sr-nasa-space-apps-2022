@@ -26,7 +26,7 @@ The project, conducted from October 1, 2022, to October 2, 2022, was submitted d
 
 ## Project Details
 
-For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Details](https://2022.spaceappschallenge.org/challenges/2022-challenges/mars-habitat/teams/tunsa-space-robotics/project) on NASA Space Apps 2022's website.
+For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to [this page](https://2022.spaceappschallenge.org/challenges/2022-challenges/mars-habitat/teams/tunsa-space-robotics/project) on NASA Space Apps 2022's website.
 
 ## License
 
