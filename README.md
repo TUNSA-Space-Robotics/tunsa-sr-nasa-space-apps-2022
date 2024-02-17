@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project focuses on the design and optimization of multi-purpose equipment essential for a 1-year astronaut mission on Mars. Leveraging advanced SOLIDWORKS functionalities and in-depth knowledge of resource utilization, the project aimed to maximize efficiency and sustainability in Mars habitat equipment design, while ensuring compatibility with the constraints of available 3D printers.
+This project aims to design and optimize multi-purpose equipment crucial for a 1-year astronaut mission on Mars. Leveraging advanced SOLIDWORKS functionalities and deep understanding of resource utilization, the goal is to maximize efficiency and sustainability in Mars habitat equipment design, while ensuring compatibility with available 3D printers.
 
 ## Project Scope
 
